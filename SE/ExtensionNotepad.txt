@@ -1,0 +1,4 @@
+Sequence diagram is a type of interaction diagram.
+ It describss how and what order group of objectsare executing together.
+  this diagram mostly used by business peoples and software developers to 
+  understand requiremnts to new and existing systems of software model.
